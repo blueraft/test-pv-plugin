@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+  "commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "AHmed Ilyas",
+      "email": "ahmed.ilyas@physik.hu-berlin.de",
+      "github_username": "blueraft",
+      "plugin_name": "test-pv-plugin",
+      "module_name": "test_pv_plugin",
+      "lab_name": "fairmat",
+      "short_description": "Nomad example template",
+      "version": "0.1.0",
+      "license": "MIT",
+      "include_schema_package": true,
+      "include_normalizer": true,
+      "include_parser": true,
+      "include_app": true,
+      "include_example_uploads": true,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+      "_commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e"
+    }
+  },
+  "directory": null
+}
